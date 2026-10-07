@@ -1,5 +1,6 @@
 ### IntelliJ IDEA ###
 out/
+target/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .kotlin
@@ -31,3 +32,4 @@ bin/
 
 ### Documentation (não incluir no repositório) ###
 docs/
+TCC-revisado.md
